@@ -1,0 +1,3 @@
+Include all the files for visualizing the dataset, training the model, evaluating the result and extracting the data. It does not contain the dataset but the way to handle the dataset is included in the files.
+Discriptions is in the first line of each file
+The source code of one of the file is come from Gretelai, “public_research/oss_doppelganger/sample_usage.ipynb at main · gretelai/public_research,” GitHub. https://github.com/gretelai/public_research/blob/main/oss_doppelganger/sample_usage.ipynb
